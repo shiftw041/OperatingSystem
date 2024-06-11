@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\shiftw\Desktop\操作系统原理\实验二\nophilos\源.cpp(43,20): warning C4311: “<function-style-cast>”: 从“LPVOID”到“int”的指针截断
+C:\Users\shiftw\Desktop\操作系统原理\实验二\nophilos\源.cpp(43,20): warning C4302: “<function-style-cast>”: 从“LPVOID”到“int”截断
+C:\Users\shiftw\Desktop\操作系统原理\实验二\nophilos\源.cpp(82,59): warning C4312: “<function-style-cast>”: 从“int”转换到更大的“LPVOID”
+  nophilos.vcxproj -> C:\Users\shiftw\Desktop\操作系统原理\实验二\nophilos\x64\Debug\nophilos.exe

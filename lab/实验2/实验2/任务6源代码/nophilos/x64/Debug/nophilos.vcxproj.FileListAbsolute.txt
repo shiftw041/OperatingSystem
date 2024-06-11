@@ -1,0 +1,2 @@
+D:\visualstudiodoc\nophilos\x64\Debug\nophilos.exe
+C:\Users\shiftw\Desktop\操作系统原理\实验二\nophilos\x64\Debug\nophilos.exe
